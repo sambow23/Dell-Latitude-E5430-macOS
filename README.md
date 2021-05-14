@@ -28,7 +28,7 @@ TL;DR -
 - GPU acceleration and video codecs
 - SATA SSD
 - Wireless **[after being replaced]**
-- Sleep (Trackpad and Keyboard unresponsive after wakeup, needs work)
+- Sleep
 - Trackpad including gestures
 - Battery Percentage
 - Audio (AppleALC - IDT 92HD93BXX)

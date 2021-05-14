@@ -105,7 +105,7 @@
 					<key>FingerChangeIgnoreDeltas</key>
 					<integer>0</integer>
 					<key>FingerZ</key>
-					<integer>10</integer>
+					<integer>5</integer>
 					<key>HorizontalScrollDivisor</key>
 					<integer>0</integer>
 					<key>ImmediateClick</key>
@@ -198,7 +198,7 @@
 	</dict>
 	<key>OSBundleLibraries</key>
 	<dict>
-		<key>com.apple.iokit.IOHIDFamily</key>
+		<key>com.apple.iokit.IOHIDSystem</key>
 		<string>1.0.0b1</string>
 		<key>com.apple.kpi.iokit</key>
 		<string>9.0.0</string>

@@ -30,6 +30,8 @@ TL;DR -
 - Wireless **[after being replaced]**
 - Sleep (Trackpad and Keyboard unresponsive after wakeup, needs work)
 - Trackpad including gestures
+- Battery Percentage
+- Audio (AppleALC - IDT 92HD93BXX)
 - All USB ports
 - Screen full resolution, brightness
 - HDMI
@@ -38,8 +40,6 @@ TL;DR -
 
 **What does not work/disabled:**
 - Internal webcam with Facetime (No Webcam hardware)
-- Battery Capacity (At least on Big Sur)
-- Audio (At least on Big Sur)
 - Bluetooth
 
 **Not tested:**

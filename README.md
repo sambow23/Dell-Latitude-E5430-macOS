@@ -2,11 +2,11 @@ Intro
 ---
 
 This Repo has my OpenCore EFI folder for anyone trying to run macOS 11.X+ on their Dell Latitude E5430 (non-vPro)
-### My legacy Clover macOS 10.15+ folder is also avaiable but deprecated and no longer supported
+#### My legacy Clover macOS 10.15+ folder is also avaiable but deprecated and no longer supported
 Specs:
 
 __**Dell Latitude E5430 (Non-vPro)**__
-- **CPU** : Intel Core i7-3630QM 2C4T 2.4GHz (3.4GHz turbo)
+- **CPU** : Intel Core i7-3630QM 4C8T 2.4GHz (3.4GHz turbo)
 - **RAM** : 12GB dual-channel 1600MHz DDR3
 - **GPU** : Intel HD Graphics 4000
 - **Storage** : ADATA 120GB SSD

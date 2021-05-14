@@ -1,6 +1,6 @@
 Intro
 ---
-![ABTM](https://i.ibb.co/3dW0vzJ/Screen-Shot-2021-05-13-at-10-23-50-PM.png)
+![ABTM](https://i.ibb.co/K5hzyQn/Screen-Shot-2021-05-14-at-1-04-29-AM.png)
 
 This Repo has my OpenCore EFI folder for anyone trying to run macOS 11.X+ on their Dell Latitude E5430 (non-vPro)
 #### My legacy Clover macOS 10.15+ folder is also avaiable but deprecated and no longer supported
